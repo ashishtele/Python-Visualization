@@ -3,3 +3,4 @@
 - ggplot in Python
 - Seaborn graphs
 - Seaborn complete tutorial practice (Python Data Science Handbook)
+- Line and Scatter plot
